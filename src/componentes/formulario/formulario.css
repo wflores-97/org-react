@@ -1,0 +1,21 @@
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Prata&display=swap');
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.formulario form{
+    max-width: 80%;
+    background: #f7f7f7;
+    border-radius: 20px;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, .08);
+    padding: 8px 100px;
+}
+
+.formulario form h2{
+    font-size: 2rem;
+    text-align: center;
+}
